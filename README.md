@@ -1,10 +1,11 @@
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/61568090?v=4" align="center" height="400" width="400" />
 </div>  
-  
+<br />
 
-### <div align="center">I'm Wakaba,  pursuing a Master's degree in CS at Wuhan University in China now🚀, expected to graduate in 2026🕑</div>  
-  
+
+<div align="center" ><strong  style="font-size: 32px;">I'm Wakaba, a Master's degree student majoring in CS at Wuhan University now</strong>🚀<br/></div>  
+
 
 - 🔭 My current research focuses on low-power computing and heterogeneous computing on Android system.  
   
@@ -68,28 +69,10 @@
 <br/>  
 
 
-
-<br/>  
-
-
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=wakaba123&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakaba123&hide_border=true&layout=compact" align="left" />  
 
-<br/>  
-<br/>  <br/>  <br/>  <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/wakaba123" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/linkedin.com/in/ruoye-wu-25ab97255" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
