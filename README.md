@@ -16,7 +16,7 @@
 - ❓ Feel free to ask me anything about my blog and projects in both Chinese or English!  
   
 
-- ⚡ Fun fact: I use tabs over spaces and I don't have girlfriend or boyfriend.😭  
+- ⚡ Fun fact: I use tabs over spaces and I don't have a girlfriend or a boyfriend.😭  
   
 
 <br/>  
