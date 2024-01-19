@@ -13,7 +13,7 @@
 - 🌱 I am exploring TensorFlow Lite source code for deep learning and embedded systems now.  
   
 
-- ❓ Feel free to ask me anything about my blog and projects in both Chinese or English!  
+- ❓ Feel free to ask me anything about my blog and projects in Chinese or English!  
   
 
 - ⚡ Fun fact: I use tabs over spaces and I don't have a girlfriend or a boyfriend.😭  
